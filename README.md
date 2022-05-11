@@ -1,4 +1,4 @@
-# UFO
+# UFO Sightings
 ## Project Overview
 The purpose of this analysis was to create a website presenting data about UFO spotting and to allow users easy filtering.
 
@@ -25,6 +25,6 @@ After hitting enter the table will be filtered based on provided cirteria like t
 
 [!image https://github.com/beata-malachowska/UFO/blob/main/static/images/filtered_table.png]
 
-###Summary 
-Two drawback: users don't know from which criteria then can choose from and they can't search through last two columns.
-Solutions: drop-down list should be available with filtering criteria instead of direct input; "Duration" column should be cleaned and for "Comments" column regex search should be made available. 
+##Summary 
+1. Two drawback: users don't know from which criteria then can choose from and they can't search through last two columns.
+2. Solutions: drop-down list should be available with filtering criteria instead of direct input; "Duration" column should be cleaned and for "Comments" column regex search should be made available. 
